@@ -1,4 +1,4 @@
-<h1> Olá! Eu sou Afrain Calixto 👋 </h1>
+<h1> Olá👋, eu sou Afrain Calixto. 👋 </h1>
 
 <p align="left" style="background:yellow">
        <a href="https://www.linkedin.com/in/afrain-calixto-203487168" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                       badge&logo=linkedin&logoColor=white" target="_blank"></a>
